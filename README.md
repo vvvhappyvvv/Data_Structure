@@ -10,4 +10,4 @@ All the codes are finished in python 3
 #Catalog
 1. Contiguous sequence with largest sum
 2. Multiplication and addition of unary polynomials
-3. Stack by single linked list 
+3. Stack and queue by single linked list 
